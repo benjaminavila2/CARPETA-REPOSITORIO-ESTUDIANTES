@@ -6,4 +6,15 @@ Precisión, orden, finito y definición
 Estructura:
 Inpud o entrada: ingredientes para empezar
 Algoritmo: Lista de instruccionjes
-Output: 
+Output: Resultado final o solución del problema
+
+Diagrama de flujo: Representación grafica del algoritmo o de los pasos del proceso. En programación se usa
+como herramienta de planificación para visualizar la logica de un programa antes de escribir una sola línea
+de codigo.
+
+Lenguaje de programación: existen entre 700 y 900 lenguajes que se utilizan actualmente en la industria y en el desarrollo
+de software profesional
+Python y Java son los más utilizados.
+
+P5.js: Utiliza principalmente el lengauje de JavaScript.
+No es un lenguaje nuevo si no como una biblioteca de JavaScript.
