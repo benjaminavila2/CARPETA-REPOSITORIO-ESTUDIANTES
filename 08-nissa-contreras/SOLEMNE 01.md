@@ -16,10 +16,10 @@ ___
 
 ## **Dibujo físico**  
 
-![Dibujo abstracción](file:///Users/nissacontreras/Documents/DIBUJO.jpg)  
+![Dibujo abstracción] (![DIBUJO NISSA](https://github.com/user-attachments/assets/7b632b09-5fe1-4227-b62b-762523b38655)   
+
 
 ___
-
 ## **Work in progress**
 
 ![Dibujo en editor p5.js en proceso](file:///Users/nissacontreras/Documents/Work%20in%20progress.jpg)
